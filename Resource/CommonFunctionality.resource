@@ -6,7 +6,7 @@ Library     OperatingSystem
 
 *** Variables ***
 ${BROWSER}  chrome
-${URL}  url=https://opensource-demo.orangehrmlive.com/
+${URL}  https://opensource-demo.orangehrmlive.com/
 
 *** Keywords ***
 Launch Browser
